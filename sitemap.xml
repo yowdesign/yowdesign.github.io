@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yowdesign.cn/home/downloads/download1/</loc>
+    <loc>https://yowdesign.cn/home/services/</loc>
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/home/services/</loc>
+    <loc>https://yowdesign.cn/home/downloads/download1/</loc>
   </url>
   
   <url>
@@ -23,16 +23,17 @@
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yowdesign.cn/post/liyong/</loc>
+    <loc>https://yowdesign.cn/resume/</loc>
     <lastmod>2021-01-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/post/</loc>
+    <loc>https://yowdesign.cn/portfolio/</loc>
+    <lastmod>2021-01-21T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yowdesign.cn/portfolio/</loc>
     <lastmod>2021-01-21T12:00:00+00:00</lastmod>
   </url>
   
@@ -46,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/home/services/service3/</loc>
+    <loc>https://yowdesign.cn/home/services/service1/</loc>
   </url>
   
   <url>
@@ -54,15 +55,15 @@
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/home/services/service1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yowdesign.cn/home/downloads/download2/</loc>
+    <loc>https://yowdesign.cn/home/services/service2/</loc>
   </url>
   
   <url>
     <loc>https://yowdesign.cn/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yowdesign.cn/home/services/service3/</loc>
   </url>
   
   <url>
@@ -74,7 +75,7 @@
   </url>
   
   <url>
-    <loc>https://yowdesign.cn/home/services/service2/</loc>
+    <loc>https://yowdesign.cn/home/downloads/download2/</loc>
   </url>
   
 </urlset>

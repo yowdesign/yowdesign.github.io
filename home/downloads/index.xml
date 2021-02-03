@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Downloads on YOWDESIGN</title>
+    <title>recommend on YOWDESIGN</title>
     <link>https://yowdesign.cn/home/downloads/</link>
-    <description>Recent content in Downloads on YOWDESIGN</description>
+    <description>Recent content in recommend on YOWDESIGN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language><atom:link href="https://yowdesign.cn/home/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download original template</title>
+      <title>书籍推荐</title>
       <link>https://yowdesign.cn/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/downloads/download1/</guid>
-      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+      <description>深泽直人 无意识设计.“without thought”，即“无意识设计”，含义是“将无意识的行动转化为可见之物”。对此，设计师自己解释就是“比如说走路，它并不是小时候学会的一种行为，而是你在走路的时候要看你的脚往哪儿踩，就是在寻找脚踩的一种价值。也是一种寻找价值的连续行为。人与物、环境达到完美的和谐的时候，就是找到了一种意识的核心。”</description>
     </item>
     
     <item>
-      <title>Download HUGO template</title>
+      <title>设计技能</title>
       <link>https://yowdesign.cn/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/downloads/download2/</guid>
-      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+      <description>设计技能. SKETCH DESIGN、RHINO、andKEYSHOT、Here&amp;rsquo;s what you need in design </description>
     </item>
     
   </channel>

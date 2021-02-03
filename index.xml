@@ -8,29 +8,29 @@
     <language>zh-Hans</language>
     <lastBuildDate>Thu, 21 Jan 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://yowdesign.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download original template</title>
+      <title>书籍推荐</title>
       <link>https://yowdesign.cn/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/downloads/download1/</guid>
-      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+      <description>深泽直人 无意识设计.“without thought”，即“无意识设计”，含义是“将无意识的行动转化为可见之物”。对此，设计师自己解释就是“比如说走路，它并不是小时候学会的一种行为，而是你在走路的时候要看你的脚往哪儿踩，就是在寻找脚踩的一种价值。也是一种寻找价值的连续行为。人与物、环境达到完美的和谐的时候，就是找到了一种意识的核心。”</description>
     </item>
     
     <item>
       <title>resume</title>
-      <link>https://yowdesign.cn/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://yowdesign.cn/resume/</link>
+      <pubDate>Thu, 21 Jan 2021 12:00:00 +0000</pubDate>
       
-      <guid>https://yowdesign.cn/about/</guid>
+      <guid>https://yowdesign.cn/resume/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>My portfolio</title>
-      <link>https://yowdesign.cn/post/liyong/</link>
+      <title>my portfolio</title>
+      <link>https://yowdesign.cn/portfolio/</link>
       <pubDate>Thu, 21 Jan 2021 12:00:00 +0000</pubDate>
       
-      <guid>https://yowdesign.cn/post/liyong/</guid>
+      <guid>https://yowdesign.cn/portfolio/</guid>
       <description></description>
     </item>
     
@@ -40,52 +40,61 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/subheader/</guid>
-      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
+      <description>“用设计 ，爱生活”是我的设计宣言resume。“卓越创新、至始至终、以终为始、求新求知、职责诚信、走出舒适、积极主动。”是我的人生准则与价值观。如果创意分成5种方程式：灵视者、观察者、炼金者、智者、愚者。那我想我更倾向于灵视者与观察者。有计划，爱学习，肯上进，愿实践，我就是我，不一样的烟火。portfolio.</description>
     </item>
     
     <item>
-      <title>Application development</title>
-      <link>https://yowdesign.cn/home/services/service3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yowdesign.cn/home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Custom website design</title>
+      <title>Brand image design 品牌形象设计</title>
       <link>https://yowdesign.cn/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/services/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;从品牌的logo符号到终端空间
+品牌的视觉形象的传达始终共建其核心价值&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Download HUGO template</title>
-      <link>https://yowdesign.cn/home/downloads/download2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yowdesign.cn/home/downloads/download2/</guid>
-      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
-    </item>
-    
-    <item>
-      <title>SEO &amp; SEM services</title>
-      <link>https://yowdesign.cn/home/services/service4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yowdesign.cn/home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Wordpress integration</title>
+      <title>Design modeling 设计模型制作</title>
       <link>https://yowdesign.cn/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yowdesign.cn/home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;精品模型制作，严格要求，深入项目，品质第一，我们的服务始终坚持以人为本的设计理念。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>product design 产品设计</title>
+      <link>https://yowdesign.cn/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yowdesign.cn/home/services/service3/</guid>
+      <description>&lt;p&gt;多轮头脑风暴生成草图，内审后进行3D建模，
+做出PPT经内部审核后交付客户进行完美提案。
+最终呈现给客户的高颜值、硬体验、超预期的产品效果。
+通过CMF工程对产品设计的设计颜色、材质与工艺整体串联分析，
+是对于产品的细节处理以满足成本、材料、生产工艺高标准要求。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research on product strategy创新策略研究 </title>
+      <link>https://yowdesign.cn/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yowdesign.cn/home/services/service4/</guid>
+      <description>&lt;p&gt;根据年度设计策略
+产品规划和目标人群定义
+深入了解设计需求
+明确产品规划和目标人群定义
+从而使设计创新更具有实效性和针对性&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>设计技能</title>
+      <link>https://yowdesign.cn/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yowdesign.cn/home/downloads/download2/</guid>
+      <description>设计技能. SKETCH DESIGN、RHINO、andKEYSHOT、Here&amp;rsquo;s what you need in design </description>
     </item>
     
   </channel>
